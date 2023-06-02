@@ -1,0 +1,12 @@
+.input[type=text] {
+    border: none;
+    font-size: 17px;
+  }
+
+  .searchbar{
+    background-color: #f2fafd;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+
+  }
